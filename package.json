@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node src",
     "dev": "nodemon src",
-    "build": "node src"
+    "build": "npm install"
   },
   "keywords": [],
   "author": "",
